@@ -3,7 +3,7 @@ from sqlalchemy import create_engine, text
 
 
 
-CSV_PATH = "data_raw/crimedata_csv_AllNeighbourhoods_2026.csv"
+CSV_PATH = "data_raw/crimedata_csv_AllNeighbourhoods_AllYears.csv"
 
 DB_URL = "postgresql+psycopg2://postgres:Icey_Mech0204@localhost:1234/Vancouver_analytics"
 
